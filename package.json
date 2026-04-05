@@ -1,0 +1,12 @@
+{
+  "name": "smart-traffic-ambulance",
+  "version": "1.0.0",
+  "description": "Professional AI Traffic Control System for Ambulance Priority",
+  "scripts": {
+    "start": "py main.py",
+    "dev": "py main.py",
+    "install-deps": "py -m pip install -r requirements.txt"
+  },
+  "author": "",
+  "license": "MIT"
+}

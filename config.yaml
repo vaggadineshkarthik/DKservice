@@ -1,0 +1,7 @@
+# DroidCam URL: http://<Device IP>:4747/video
+# RTSP URL: rtsp://user:pass@ip:port/stream
+north: "http://10.33.143.235:4747/video"
+south: ""
+east: ""
+west: ""
+confidence_threshold: 0.85
