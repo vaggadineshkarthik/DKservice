@@ -1,0 +1,7 @@
+[build]
+  base = "smart-traffic-ambulance"
+  publish = "static"
+  command = "npm install"
+
+[build.environment]
+  NODE_VERSION = "20"
