@@ -1,7 +1,0 @@
-ultralytics
-opencv-python
-numpy
-pygame
-flask
-flask-cors
-pyyaml
